@@ -133,8 +133,16 @@ a:visited {
   height: 400px;
 }
 
+#jevaughn-mckenzie-cover {
+  background-image: url("http://i.imgur.com/bGMXkHV.jpg");
+}
+
+#jevaughn-mckenzie-card {
+  background-image: url("http://i.imgur.com/A92geB3.jpg");
+}
+
 #irina-afanaseva-cover {
-    background-image: url("http://i.imgur.com/0mb6WMf.jpg");
+  background-image: url("http://i.imgur.com/0mb6WMf.jpg");
 }
 
 #irina-afanaseva-card {
